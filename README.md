@@ -21,3 +21,5 @@ Censored
 ## Plugins
 Censored
 It is possible for anyone else who knows C# to make a plugin themselves as well. Feel free to contact me on my dev server!
+## Installation
+[![](https://img.shields.io/github/v/release/arduano/Zenith-MIDI?label=download%2032-bit&style=flat-square)](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx86.zip) [![](https://img.shields.io/github/v/release/arduano/Zenith-MIDI?label=download%2064-bit&style=flat-square&color=green)](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx64.zip)
